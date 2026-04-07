@@ -8,12 +8,12 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Containers
-  - Storage
-  - Kubernetes
-  - Persistent Storage
   - Cloud Native
+  - Containers
+  - Kubernetes
   - Open Source
+  - Persistent Storage
+  - Storage
 url: >-
   https://raw.githubusercontent.com/api-evangelist/openebs/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -29,11 +29,11 @@ apis:
       supports multiple storage engines.
     humanURL: https://openebs.io/
     tags:
+      - Cloud Native
       - Containers
-      - Storage
       - Kubernetes
       - Persistent Storage
-      - Cloud Native
+      - Storage
     properties:
       - type: Documentation
         url: https://openebs.io/docs/
