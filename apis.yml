@@ -37,16 +37,16 @@ apis:
     properties:
       - type: Documentation
         url: https://openebs.io/docs/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://openebs.io/docs/
 common:
   - type: Website
     url: https://openebs.io/
   - type: Documentation
     url: https://openebs.io/docs/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/openebs
-  - type: GitHub Repository
+  - type: GitHubRepository
     url: https://github.com/openebs/openebs
   - type: Blog
     url: https://openebs.io/blog/
