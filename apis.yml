@@ -40,6 +40,8 @@ apis:
       - type: GettingStarted
         url: https://openebs.io/docs/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/openebs
   - type: Website
     url: https://openebs.io/
   - type: Documentation
