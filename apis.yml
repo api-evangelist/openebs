@@ -54,6 +54,8 @@ common:
     url: https://openebs.io/blog/
   - type: Community
     url: https://openebs.io/docs/community
+  - type: LLMsTxt
+    url: https://openebs.io/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
