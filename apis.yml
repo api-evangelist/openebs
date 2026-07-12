@@ -40,6 +40,8 @@ apis:
       - type: GettingStarted
         url: https://openebs.io/docs/
 common:
+  - type: DomainSecurity
+    url: security/openebs-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/openebs
   - type: Website
