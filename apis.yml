@@ -52,6 +52,9 @@ apis:
       - type: GettingStarted
         url: https://openebs.io/docs/
 common:
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/openebs/openebs/blob/develop/LICENSE
   - type: DomainSecurity
     url: security/openebs-domain-security.yml
   - type: LinkedIn
