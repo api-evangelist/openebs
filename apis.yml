@@ -20,6 +20,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/openebs.png
 tags:
+  - Cloud-Native
+  - Containers
+  - Kubernetes
+  - Open-Source
+  - Persistent Storage
+  - Storage
+tags_raw:
   - Cloud Native
   - Containers
   - Kubernetes
@@ -41,6 +48,12 @@ apis:
       supports multiple storage engines.
     humanURL: https://openebs.io/
     tags:
+      - Cloud-Native
+      - Containers
+      - Kubernetes
+      - Persistent Storage
+      - Storage
+    tags_raw:
       - Cloud Native
       - Containers
       - Kubernetes
