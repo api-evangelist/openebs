@@ -6,6 +6,18 @@ description: >-
   dynamic provisioning of storage resources using containerized storage
   controllers, making it highly flexible and cloud-native.
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: Apache-2.0
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
@@ -65,6 +77,16 @@ apis:
       - type: GettingStarted
         url: https://openebs.io/docs/
 common:
+  - type: IssueTracker
+    url: https://github.com/openebs/openebs/issues
+  - type: Releases
+    url: https://github.com/openebs/openebs/releases
+  - type: SecurityPolicy
+    url: https://github.com/openebs/openebs/blob/develop/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/openebs/openebs/blob/develop/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/openebs/openebs/blob/develop/CONTRIBUTING.md
   - type: License
     name: Apache-2.0
     url: https://github.com/openebs/openebs/blob/develop/LICENSE
